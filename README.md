@@ -1,7 +1,14 @@
-# Base64-wifi-admin-pass
+# Base64-wifi-admin-password
 
-echo "rejaul" | base64
 
-echo "cmVqYXVsCg==" | base64 -d
+<!--[profile](./r.jpg)-->
+<img src="r.jpg" width="500"/>
+
+
+### you can use kali-linux
+
+``` echo "rejaul" | base64 ```
+
+``` echo "cmVqYXVsCg==" | base64 -d ```
 
 
